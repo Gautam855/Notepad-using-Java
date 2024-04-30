@@ -35,8 +35,6 @@ This is a simple text editor application developed in Java using Swing GUI compo
    ```bash
    java MyFrame
 
-
-   
 ## Usage
 
 - **New File:** Click on the "New" button in the toolbar or select "File -> New" from the menu.
