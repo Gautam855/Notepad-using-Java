@@ -12,10 +12,10 @@ This is a simple text editor application developed in Java using Swing GUI compo
 
 ## Prerequisites
 
-- Java Development Kit (JDK):
-  Make sure you have JDK installed on your system. You can download and install it from the [official website](https://www.oracle.com/java/technologies/downloads/#java11).
-- IDE (Optional):
-  If you prefer using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans, you can import the project into your IDE and run it from there.
+  ###Java Development Kit (JDK):
+  - Make sure you have JDK installed on your system. You can download and install it from the [official website](https://www.oracle.com/java/technologies/downloads/#java11).
+  ###IDE (Optional):
+  - If you prefer using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans, you can import the project into your IDE and run it from there.
 
 ## How to Run
 
