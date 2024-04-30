@@ -17,13 +17,26 @@ This is a simple text editor application developed in Java using Swing GUI compo
   ### IDE (Optional):
   - If you prefer using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans, you can import the project into your IDE and run it from there.
 
-## How to Run
+## Installation Instructions
 
-1. Clone or download this repository to your local machine.
-2. Open the project in your preferred IDE.
-3. Compile and run the `MyFrame.java` file.
-4. The application window will appear, allowing you to use the text editor functionalities.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Gautam855/Notepad-using-Java.git
 
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd Notepad-using-Java
+
+3. **Compile the Java Files:**
+   ```bash
+   javac MyFrame.java
+
+4. **Run the Application:**
+   ```bash
+   java MyFrame
+
+
+   
 ## Usage
 
 - **New File:** Click on the "New" button in the toolbar or select "File -> New" from the menu.
